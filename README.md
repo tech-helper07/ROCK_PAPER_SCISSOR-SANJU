@@ -13,8 +13,8 @@ Find out who wins!
 
 Technologies Used
 
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
 
 Getting Started
@@ -24,4 +24,5 @@ Open the index.html file in your web browser.
 
 
 Acknowledgments
+
 Inspired by the classic Rock, Paper, Scissors game.
